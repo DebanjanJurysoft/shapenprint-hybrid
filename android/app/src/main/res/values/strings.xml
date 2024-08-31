@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">shape-n-print-nuxt</string>
+    <string name="title_activity_main">shape-n-print-nuxt</string>
+    <string name="package_name">shape.n.print.nuxt</string>
+    <string name="custom_url_scheme">shape.n.print.nuxt</string>
+</resources>

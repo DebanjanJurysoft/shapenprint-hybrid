@@ -1,0 +1,7 @@
+{
+  "name": "shape-n-print-nuxt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
