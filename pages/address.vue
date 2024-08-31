@@ -107,6 +107,7 @@
                                         <input type="radio" id="other" name="address_type" value="Others">
                                         <label for="other">Others</label>
                                     </div>
+                                    
                                     <div class="col-6" style="display: none;" id="other_address_type">
                                         <input type="text" class="form-control" id="address_type_name"
                                             placeholder="Address Type" required="">
